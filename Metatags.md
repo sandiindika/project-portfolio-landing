@@ -16,7 +16,6 @@ See Screenshot for example.
 ![metatags2](https://user-images.githubusercontent.com/46662771/157324359-85c2dc95-97e7-4838-8597-4b90e5734d6e.JPG)
 Then, click `Generate Meta Tags`
 
-![metatag generated](https://user-images.githubusercontent.com/46662771/157324943-7fe07bbb-1d5d-46fd-a9a8-0fb52d1c472d.JPG)
 Copy the code into the `<head>` tag of your `html` file.
 
 For the preview image, upload your project image on github, cloudinary, google drive or any online storage. Copy the image url into `content` attribute of <meta> tags with `property="og:image"`.
