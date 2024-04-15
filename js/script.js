@@ -62,17 +62,3 @@ let myDate = document.querySelector("#datee");
 
 const yes = new Date().getFullYear();
 myDate.innerHTML = yes;
-
-// Download resume
-function addDownloadEventListener() {
-	var downloadButton = document.getElementById("downloadButton");
-
-	downloadButton.addEventListener("click", function() {
-		downloadButton.href = "./CV.pdf";
-		downloadButton.setAttribute("download", "sans_cv.pdf");
-	});
-}
-
-document.addEventListener("DOMContentLoaded", function() {
-    addDownloadEventListener();
-});
