@@ -140,12 +140,12 @@ h2::selection {
 }
 
 /* Project 2 */
-.card:nth-child(3) {
+.card:nth-child(2) {
   background: url(../assets/project/personal-site.png) center center/cover;
 }
 
 /* Project 3 */
-.card:nth-child(5) {
+.card:nth-child(3) {
   background: url(../assets/project/streamlit.png) center center/cover;
 }
 
