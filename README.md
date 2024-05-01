@@ -12,6 +12,7 @@
 <hr>
 
 ## Design credit: 
+
 - <a href="https://github.com/CommunityPro">Communitypro</a>
 - <a href="https://dribbble.com/shots/14385288-Portfolio-Landing-Page?utm_source=Clipboard_Shot&utm_campaign=oguzyagiz&utm_content=Portfolio%3A%20Landing%20Page&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=oguzyagiz&utm_content=Portfolio%3A%20Landing%20Page&utm_medium=Social_Share">Dribble Inspiration</a>
 - <a href="https://github.com/frankiefab100">Franklin U.O. Ohaegbulam</a>
